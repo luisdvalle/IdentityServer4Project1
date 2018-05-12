@@ -13,7 +13,7 @@ The structure of this solution is the following
 
 Auth Service - Web API - Client 
 
-<img src="https://github.com/luisdvalle/IdentityServer4Project1/blob/master/identityserver4-overview.png" />
+<img src="https://github.com/luisdvalle/IdentityServer4Project1/blob/master/IDServer4-overview.png" />
 
 
 # Project Title
